@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="관심 지역 검색" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:title="공인중개사 등록" />
+
+        <item
+            android:id="@+id/nav_slideshow"
+            android:title="채팅" />
+
+        <item
+            android:id="@+id/nav_tools"
+            android:title="홈" />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Logout"/>
+    </group>
+
+    <item
+        android:id="@+id/communicate"
+        android:title="Communicate"
+        android:visible="false">
+        <!--처음엔 안보이게 설정-->
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Share" />
+
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@android:drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+</menu>

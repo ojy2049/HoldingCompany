@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "416048509540",
+    "project_id": "charming-layout-307209",
+    "storage_bucket": "charming-layout-307209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416048509540:android:d0cf8c7741019152a2a571",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416048509540-qfikhl8gl8fp8epab15fap25fg0fjum8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "e5edf87b1377605249bfc4b75cfe512d8b6be297"
+          }
+        },
+        {
+          "client_id": "416048509540-6jgvc6r0q1srvdeoknrf639gu12bt3e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIilraMpESP6IM1zgqVQdyv0fUNyqHe_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416048509540-6jgvc6r0q1srvdeoknrf639gu12bt3e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

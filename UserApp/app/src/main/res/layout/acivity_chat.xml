@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/chat_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        app:popupTheme="@style/Widget.AppCompat.Toolbar" />
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/chat_recyler_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scrollbars="vertical"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp">
+
+        <EditText
+            android:id="@+id/chat_Etext"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/btn_send"
+            android:text="전송"
+            android:layout_width="80dp"
+            android:layout_height="match_parent"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>
