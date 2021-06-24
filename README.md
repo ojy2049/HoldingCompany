@@ -14,17 +14,22 @@
 ***
 
 #### [시험 시나리오]
-![Alt text](/path/to/img.jpg)
+![test_scenario](https://user-images.githubusercontent.com/51106094/123197556-a0c89a80-d4e6-11eb-9071-84e8358d330d.jpg)
 
 ***
 
 #### [상세설계]
-![Alt text](/path/to/img.jpg)
+![system_design](https://user-images.githubusercontent.com/51106094/123197555-a0300400-d4e6-11eb-9a12-aef2b735d02a.jpg)
 
 ***
 
 #### [앱 화면]
-![Alt text](/path/to/img.jpg)
+![cobro_icon](https://user-images.githubusercontent.com/51106094/123197563-a1f9c780-d4e6-11eb-8f5c-eab2a5b19fb7.png)   
+![bottomsheet1](https://user-images.githubusercontent.com/51106094/123197557-a0c89a80-d4e6-11eb-847f-a28f16c439d5.png)   
+![bottomsheet 2](https://user-images.githubusercontent.com/51106094/123197552-9efed700-d4e6-11eb-8a20-04376ae9925d.png)   
+![bottomsheet3](https://user-images.githubusercontent.com/51106094/123197558-a1613100-d4e6-11eb-9388-38f39dc4cd2a.png)
+![listview](https://user-images.githubusercontent.com/51106094/123197560-a1f9c780-d4e6-11eb-8fae-74b15d0dbff4.png)   
+
 
 ***
 
